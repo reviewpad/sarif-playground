@@ -1,2 +1,1 @@
 # sarif-playground
-
